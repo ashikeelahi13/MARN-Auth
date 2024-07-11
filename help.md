@@ -11,3 +11,14 @@ Install tailwind css vite (google it)
 Modefy the tailwind.config.js (from website) -> Replace all the code
 
 Delete everything and write code website's code in index.css file
+
+
+npm run dev
+
+rfc (shortcut)
+
+install react router dom
+npm i react-router-dom
+
+check sourch control for github update
+
