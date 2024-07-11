@@ -1,0 +1,13 @@
+Gatting started
+
+npm create vite@latest client
+    - React
+    - JavaScript + SWC
+
+Install tailwind css vite (google it)
+    - npm install -D tailwindcss postcss autoprefixer
+    - npx tailwindcss init -p
+
+Modefy the tailwind.config.js (from website) -> Replace all the code
+
+Delete everything and write code website's code in index.css file
