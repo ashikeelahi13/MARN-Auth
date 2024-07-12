@@ -1,5 +1,5 @@
 Tutorial Link
-
+https://youtu.be/rXvQj-Z0v0s?si=PfAfeiECs-BiLhPX
 
 Gatting started
 
@@ -29,3 +29,6 @@ npm run dev (in root folder) for also run server site
 
 ------ 
 Connect to the mongoDB
+
+
+insomnia api test for post method
