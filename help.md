@@ -1,3 +1,6 @@
+Tutorial Link
+
+
 Gatting started
 
 npm create vite@latest client
@@ -22,3 +25,7 @@ npm i react-router-dom
 
 check sourch control for github update
 
+npm run dev (in root folder) for also run server site 
+
+------ 
+Connect to the mongoDB
